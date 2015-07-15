@@ -2,11 +2,13 @@
 
 ### Classification models used has the ability to learn incrementally so that there will be only a small amount of instances in the main memory.
 ### Classification Models:
-##### Multinomial Naive Bayes classifier
-##### Bernoulli Naive Bayes classifier
-##### Perceptron
-##### Passive Aggressive Classifier
+##### -- Multinomial Naive Bayes classifier
+##### -- Bernoulli Naive Bayes classifier
+##### -- Perceptron
+##### -- Passive Aggressive Classifier
 
+### Classification Technique:
+##### -- Models with best accuracy.
 
 ### Accuracy
 ##### Accuracy for MultiNomial Naive Bayes: 0.63323
@@ -24,7 +26,13 @@
 ###### Pandas
 ###### Scikit-Learn
 ###### PyLab
-        
+
+### Future Scopes or Possibilities :
+
+#### Finetune parameters to increase accuracy
+#### Reducing the dimensions or only using the variables that are useful for prediction to increase accuracy
+#### Using K-Fold Cross Validation to understand issues related to Bias/Variance
+#### Using other possible algorithms for classification to find a better fit model(reducing time constraint or by using scalable machine learning algorithms to maintain the time constrain)
         
 
 
