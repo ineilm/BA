@@ -15,12 +15,11 @@
   Area under the ROC curve : 0.691840
   
 # Python Requirements :
-### Python 2.7 or higher
-
+####### Python 2.7 or higher
 ## Packages Installed:
-#### Pandas
-#### Scikit-Learn
-#### PyLab
+###### Pandas
+###### Scikit-Learn
+###### PyLab
         
 
 
