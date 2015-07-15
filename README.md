@@ -1,6 +1,6 @@
 # Test Process - Bounty App
 
-Accuracy :
+## Accuracy
 
   Accuracy for MultiNomial Naive Bayes: 0.63323
   
@@ -10,10 +10,13 @@ Accuracy :
   
   Accuracy for Linear Model PassiveAggressiveClassifier: 0.707225
   
-  Best Model is Perceptron
-
-
+# Best Model is Perceptron
+  
   Area under the ROC curve : 0.691840
+  
+# Python Requirements :
+  # Packages Installed:
+        
 
 
 
