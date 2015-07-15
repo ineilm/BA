@@ -1,5 +1,13 @@
 # Test Process - Bounty App
 
+### Classification models used has the ability to learn incrementally so that there will be only a small amount of instances in the main memory.
+### Classification Models:
+##### Multinomial Naive Bayes classifier
+##### Bernoulli Naive Bayes classifier
+##### Perceptron
+##### Passive Aggressive Classifier
+
+
 ### Accuracy
 ##### Accuracy for MultiNomial Naive Bayes: 0.63323
 ##### Accuracy for Bernoulli Naive Bayes: 0.570222
