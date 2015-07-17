@@ -30,6 +30,7 @@
 ### Future Scopes or Possibilities :
 
 ###### Finetune parameters to increase accuracy
+###### Multiple Classifier Technique (Voting can be opted to choose the best prediction)
 ###### Reducing the dimensions or only using the variables that are useful for prediction to increase accuracy
 ###### Using K-Fold Cross Validation to understand issues related to Bias/Variance
 ###### Using other possible algorithms for classification to find a better fit model(reducing time constraint or by using scalable machine learning algorithms to maintain the time constrain)
