@@ -1,4 +1,3 @@
-# Test Process - Bounty App
 
 ##### Classification models used has the ability to learn incrementally so that there will be only a small amount of instances in the main memory.
 ### Classification Models:
